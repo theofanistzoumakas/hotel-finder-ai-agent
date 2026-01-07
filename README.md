@@ -1,10 +1,11 @@
-## 🤖 AI agent hotel-best-price.
-An AI agent that find the best hotel prices.
+# 🤖 Hotel Finder AI Agent
+
+**An AI agent that find the best hotel prices.**
 
 > ℹ️ This project is not open source and does not grant any usage rights.
 > For usage terms and legal information, see [Code Ownership & Usage Terms](#-code-ownership--usage-terms).
 
-## 📕Overview
+## 📕 Overview
 The project is an example of an AI agent, using Google's Gemini LLM, that is able to find the best price for a hotel at a destination of the user's choosing, based on his needs.
 
 ## ⚡Features
@@ -15,20 +16,20 @@ The project is an example of an AI agent, using Google's Gemini LLM, that is abl
  - ⚙️ Modular architecture with Google Gemini LLM integration
 
 
-## 🧠Technologies Used.
+## 🧠 Technologies Used
  - Python.
 
-## 🎯Purpose.
+## 🎯 Purpose
 This application was created to provide an easy way to users to find the best deals for a destination of their choosing. **This application is developed solely for academic and research purposes**.
 
-## 🧰Prerequisites.
+## 🧰 Prerequisites
 Unless you chose to use Google Colab, you may need to download Python before running the .py file.
 
 # 🔒 Code Ownership & Usage Terms
 
 This project was created and maintained by:
 
-- Konstantinos Pavlis (@PavlisKostas)
+- Konstantinos Pavlis (@kpavlis)
 - Theofanis Tzoumakas (@theofanistzoumakas)
 - Michael-Panagiotis Kapetanios (@KapetaniosMP)
 
@@ -37,6 +38,6 @@ No part of this codebase may be copied, reproduced, modified, distributed, or us
 
 Any attempt to use, republish, or incorporate this code into other projects—whether commercial or non-commercial—without prior consent may result in legal action.
 
-For licensing inquiries or collaboration requests, please contact via Discord: @kostas25_ .
+For licensing inquiries or collaboration requests, please contact via email: konstantinos1125 _at_ gmail.com .
 
-© 2025 Konstantinos Pavlis, Theofanis Tzoumakas, Michael-Panagiotis Kapetanios. All rights reserved.
+© 2026 Konstantinos Pavlis, Theofanis Tzoumakas, Michael-Panagiotis Kapetanios. All rights reserved.
