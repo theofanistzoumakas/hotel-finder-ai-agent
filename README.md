@@ -40,6 +40,12 @@ Before running the application, make sure your environment is properly configure
  - Internet Connection  
     Needed for all external API calls and LLM interactions
 
+## 💬 Conversation Demo
+
+<img width="854" height="465" alt="Agent_Conv_1" src="resources/screenshots/conversation_1.png" />
+<img width="854" height="465" alt="Agent_Conv_2" src="resources/screenshots/conversation_2.png" />
+<img width="854" height="465" alt="Agent_Conv_3" src="resources/screenshots/conversation_3.png" />
+
 # 🔒 Code Ownership & Usage Terms
 
 This project was created and maintained by:
