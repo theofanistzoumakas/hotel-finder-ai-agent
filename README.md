@@ -1,6 +1,6 @@
 # 🤖 Hotel Finder AI Agent
 
-**An intelligent hotel‑booking agent that interacts with users through a chat interface, retrieves hotel offers, and returns the best available option in the user’s preferred currency.**
+**An intelligent hotel‑finder agent that interacts with users through a chat interface, retrieves hotel offers, and returns the best available option in the user’s preferred currency.**
 
 > ℹ️ This project is not open source and does not grant any usage rights.
 > For usage terms and legal information, see [Code Ownership & Usage Terms](#-code-ownership--usage-terms).
