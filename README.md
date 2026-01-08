@@ -40,6 +40,19 @@ Before running the application, make sure your environment is properly configure
  - Internet Connection  
     Needed for all external API calls and LLM interactions
 
+## 🧪 How to Run
+
+1. **Clone the repository (or download and decompress the ZIP file)**
+   ```bash
+   git clone https://github.com/kpavlis/hotel-finder-ai-agent.git
+   cd hotel-finder-ai-agent
+
+2. **Ensure** that all required Python libraries are installed and that you have set your API keys/credentials
+
+3. **Run** `main.py` in an online environment (e.g., Google Colab) or locally
+
+4. **Interact** with the agent through the Gradio chat interface once it launches
+
 ## 💬 Conversation Demo
 
 <img width="1025" height="558" alt="Agent_Conv_1" src="resources/screenshots/conversation_1.png" />
