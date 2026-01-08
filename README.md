@@ -26,6 +26,13 @@ The system is an AI‑driven hotel‑search agent that guides users through a co
 ## 🎯 Purpose
 The purpose of this project is to demonstrate how an LLM‑powered agent can combine natural‑language interaction with structured API calls to solve a real‑world task. The agent automates hotel discovery, offer evaluation, and currency conversion, providing users with a streamlined and reliable way to obtain the best available accommodation price. **This application is developed solely for academic and research purposes**.
 
+## 📚 Technical Documentation
+
+A detailed technical overview of the project is available in a separate file.  
+It includes explanations of the code structure, key functions, and execution flow.
+
+👉🏼 [Documentation (in greek)](resources/docs/Hotel_Finder_AI_Agent_Documentation_gr.pdf)
+
 ## 🧰 Prerequisites
 
 Before running the application, make sure your environment is properly configured.
