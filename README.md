@@ -6,7 +6,9 @@
 > For usage terms and legal information, see [Code Ownership & Usage Terms](#-code-ownership--usage-terms).
 
 ## 📕 Overview
-The system is an AI‑driven hotel‑search agent that guides users through a conversational interface. Based on the city, travel dates, number of guests, and desired currency, it retrieves hotel data from external APIs, selects the best available offer, and optionally converts the price. The agent is built using LangGraph for tool orchestration, Gemini 2.5 Flash for reasoning, and Gradio for user interaction.
+The system is an AI‑driven hotel‑search agent that guides users through a conversational interface. Based on the city, travel dates, number of guests, and desired currency, it retrieves hotel data from external APIs, selects the best available offer, and optionally converts the price. The agent is built using LangGraph for tool orchestration, Gemini 2.5 Flash for reasoning, and Gradio for user interaction.  
+
+> 📌 The **`resources`** folder contains supporting material such as screenshots and PDFs.
 
 ## ⚡Features
  - 🤖 AI-Powered natural language query understanding
